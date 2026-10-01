@@ -1,4 +1,4 @@
-# Nikon-D700
+# Nikon D700 Clean HDMI Feed Mod
 
 This is a modified firmware binary which removes the informational text and black boarders from the HDMI output.
 It provides a clean HDMI video feed, so that the camera live feed can be captured and used as a video source as is without cropping. 
